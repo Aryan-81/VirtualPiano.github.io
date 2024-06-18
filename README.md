@@ -7,7 +7,7 @@ Welcome to my Virtual Piano App! This application is currently in the trial phas
 - **Three.js Integration:** Enjoy interactive and visually appealing key animations powered by Three.js.
 - **Limited Key Setup:** Currently, the app features 13 keys to demonstrate functionality.
 - **Trial Phase:** This version is a work-in-progress aimed at testing and gathering feedback.
-
+   ![Screenshot 2024-06-15 230814](https://github.com/Aryan-81/VirtualPiano.github.io/assets/131597580/5d211d0e-e8de-4f77-af82-12170686b7b8)
 ### Technologies Used:
 - **React:** Frontend framework for building user interfaces.
 - **Three.js:** JavaScript library used to create and display animated 3D computer graphics in a web browser.
